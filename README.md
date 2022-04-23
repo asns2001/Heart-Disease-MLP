@@ -17,7 +17,7 @@ Here is how the MLP was built:
 2 dense layers  (RELU), 1 dropout layer (0.5), 1 final output layer (Sigmoid)
 Optimizer = Adam, Learning Rate = 0.001
 
-**Our final MLP model has an accuracy of: 77.37% and a recall of 85.69%**
+**Our final MLP model has an accuracy of 77.37% and a recall of 85.69%**
 
 ---
 
