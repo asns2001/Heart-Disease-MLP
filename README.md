@@ -19,7 +19,7 @@ Optimizer = Adam, Learning Rate = 0.001
 
 **Our final MLP model has an accuracy of: 77.37% and a recall of 85.69%**
 
---
+---
 
 The remaining files include our rough work. If you want to gain a better understanding of our thought process, follow the files as ordered:
 1. DataCleaning 
