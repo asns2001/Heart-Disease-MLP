@@ -13,13 +13,13 @@ Here is how the MLP was built:
  * callbacks were used to stop training after the precision-recall curve on the validation set stopped improving
 5) Grid Search hyper-parameter tuning
 
-Final MLP Model: 
+### Final MLP Model: 
 2 dense layers  (RELU), 1 dropout layer (0.5), 1 final output layer (Sigmoid)
 Optimizer = Adam, Learning Rate = 0.001
 
-Our final MLP model has an accuracy of: 77.37% and a recall of 85.69%
+**Our final MLP model has an accuracy of: 77.37% and a recall of 85.69%**
 
-
+--
 The remaining files include our rough work. If you want to gain a better understanding of our thought process, follow the files as ordered:
 1. DataCleaning 
 2. Data_Exploration
